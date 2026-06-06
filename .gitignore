@@ -1,0 +1,22 @@
+# KiCad lock and backup files
+*.lck
+~*.lck
+*.bak
+*.bck
+*.autosave
+*.tmp
+*-backups/
+*temp/
+
+# KiCad generated output
+fp-info-cache
+gerbers/
+fabrication/
+plot/
+drc/
+
+# Local editor/project state
+.history/
+.DS_Store
+.idea/
+.vscode/
